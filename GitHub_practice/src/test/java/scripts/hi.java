@@ -1,3 +1,5 @@
+
+
 package scripts;
 public class hi {
 public static void main(String[] args) {
@@ -5,3 +7,6 @@ public static void main(String[] args) {
 	System.out.println("user commit check");
 }
 }
+
+
+
