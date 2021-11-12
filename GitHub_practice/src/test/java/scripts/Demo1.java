@@ -9,5 +9,6 @@ public class Demo1
 	public void Sample()
 	{
 		System.out.println("test script 1");
+		System.out.println("test script 75");
 	}
 }
